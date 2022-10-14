@@ -1,4 +1,5 @@
 # Animations_example_20012011169_P8
+frame by frame animation:
 
 OUTPUT:
 
